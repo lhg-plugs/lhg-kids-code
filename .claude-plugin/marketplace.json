@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"少儿编程备课助手：知识点→趣味教案→Scratch/Python示例→课堂游戏→课后练习（需成人审核）","name":"lhg-kids-code","source":"./"}]}
